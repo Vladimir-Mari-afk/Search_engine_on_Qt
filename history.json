@@ -1,0 +1,102 @@
+{
+    "Petr": [
+        {
+            "0": 0
+        }
+    ],
+    "a": [
+        {
+            "1": "D:/QT/projects/SearchEngine2/resources/Some file.txt"
+        },
+        {
+            "0.48": "D:/QT/projects/SearchEngine2/resources/Tatiana's letter to Onegin.txt"
+        },
+        {
+            "0.36": "D:/QT/projects/SearchEngine2/resources/Green oak near Lukomorye.txt"
+        },
+        {
+            "0.12": "D:/QT/projects/SearchEngine2/resources/To Chaadaev.txt"
+        },
+        {
+            "0.04": "D:/QT/projects/SearchEngine2/resources/Winter morning.txt"
+        }
+    ],
+    "blue": [
+        {
+            "1": "D:/QT/projects/SearchEngine2/resources/Winter morning.txt"
+        },
+        {
+            "1": "D:/QT/projects/SearchEngine2/resources/Some file.txt"
+        }
+    ],
+    "color": [
+        {
+            "0": 0
+        }
+    ],
+    "green": [
+        {
+            "1": "D:/QT/projects/SearchEngine2/resources/Some file.txt"
+        },
+        {
+            "0.75": "D:/QT/projects/SearchEngine2/resources/Green oak near Lukomorye.txt"
+        },
+        {
+            "0.25": "D:/QT/projects/SearchEngine2/resources/Winter morning.txt"
+        }
+    ],
+    "green oak near": [
+        {
+            "1": "D:/QT/projects/SearchEngine2/resources/Some file.txt"
+        },
+        {
+            "0.9": "D:/QT/projects/SearchEngine2/resources/Green oak near Lukomorye.txt"
+        },
+        {
+            "0.1": "D:/QT/projects/SearchEngine2/resources/Winter morning.txt"
+        }
+    ],
+    "morning": [
+        {
+            "1": "D:/QT/projects/SearchEngine2/resources/Some file.txt"
+        },
+        {
+            "0.333333": "D:/QT/projects/SearchEngine2/resources/To Chaadaev.txt"
+        },
+        {
+            "0.333333": "D:/QT/projects/SearchEngine2/resources/Winter morning.txt"
+        }
+    ],
+    "oak": [
+        {
+            "1": "D:/QT/projects/SearchEngine2/resources/Green oak near Lukomorye.txt"
+        },
+        {
+            "1": "D:/QT/projects/SearchEngine2/resources/Some file.txt"
+        }
+    ],
+    "there": [
+        {
+            "1": "D:/QT/projects/SearchEngine2/resources/Some file.txt"
+        },
+        {
+            "0.941176": "D:/QT/projects/SearchEngine2/resources/Green oak near Lukomorye.txt"
+        },
+        {
+            "0.0588235": "D:/QT/projects/SearchEngine2/resources/Winter morning.txt"
+        }
+    ],
+    "winter": [
+        {
+            "1": "D:/QT/projects/SearchEngine2/resources/Some file.txt"
+        }
+    ],
+    "yaga": [
+        {
+            "1": "D:/QT/projects/SearchEngine2/resources/Green oak near Lukomorye.txt"
+        },
+        {
+            "1": "D:/QT/projects/SearchEngine2/resources/Some file.txt"
+        }
+    ]
+}
